@@ -115,10 +115,10 @@ npm start
 
 ## 🧑‍💼 Authors
 
-Developed by: **Sujan Ganiga**  
+Developed by: **Sharath T**  
 BMS College of Engineering  
-3rd Year - Information Science & Engineering  
-Email: [sujan.ganiga2020@gmail.com](mailto:sujan.ganiga2020@gmail.com)
+Information Science & Engineering  
+Email: [sharath.t9480@gmail.com](mailto:sharath.t9480@gmail.com)
 
 ---
 
